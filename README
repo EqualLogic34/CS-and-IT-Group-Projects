@@ -1,1 +1,12 @@
+# Cloneing a repo that is already created. 
+## 1. Start by download git to use locally on your machine. https://git-scm.com/downloads
+## 2. Download and install node.js https://nodejs.org/en/download/current
+## 3. Use git clone to clone the repo onto your local machine. 
+    On your github repo click on the green code button next choose how you want to clone. I always use  HTTPS
+    on the right copy the url and go into your command prompt. 
+## 4. In your command prompt go into whatever folder you wish to put the repo in, and type git clone (url of repo)
+## 5. cd into your repo you just cloned and use command npm install. 
+## 5. After npm install use npm start to run the react application. It should open a browser and you should see your start app there.
+
+
 
